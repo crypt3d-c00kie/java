@@ -38,7 +38,7 @@ public class arr_hasDuplicate {
         int n = fetch.nextInt();
 
         System.out.print("Given :: ");
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){ 
             int tmp = fetch.nextInt();
             given.add(tmp);
         }
