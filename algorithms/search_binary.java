@@ -29,7 +29,7 @@ public class search_binary {
     public static void main(String[] args) {
         Scanner fetch = new Scanner(System.in);
         
-        System.out.print("Number of elements :: ");
+        System.out.print("Number of elements :: "); 
         int n = fetch.nextInt();
 
         System.out.print("Given :: ");
